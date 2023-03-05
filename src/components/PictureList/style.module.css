@@ -1,0 +1,19 @@
+.container_list{
+    display: flex;
+    flex-direction:column;
+    overflow:hidden;
+  }
+  
+  .title {     
+    color: #000;
+    margin-left: 10px;;
+  }
+ 
+  .list {
+    background-color: aliceblue;    
+    width: 100vw - 25px;
+    overflow: hidden;
+    cursor: pointer;  
+  }
+
+  

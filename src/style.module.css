@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+    flex-direction:column;
+    height: 100vh;
+    padding: 0;
+    /*background-color: black;*/
+  }
+  
+  .header {
+    /*flex: 1;*/
+    /*border: 1px solid #ff0000;*/
+    height: 10vh;
+    background-color: #000;
+    text-align: center;
+    padding-left: 10px;
+    
+  }
+  
+  .container {
+    display: flex;
+    flex-direction:row;
+    height: 100%;
+    padding: 0;
+    /*background-color: black;*/
+    /*border: 3px solid orange;*/
+  }
+  .last_pictures {
+    flex: 1;  
+    /*border:1px solid red;*/
+    max-width: 20%;
+    overflow-y: auto;
+  }
+  .picture_details {
+    flex: 4;
+    /*border: 2px solid blue;*/
+  }
+  
+  .title{
+    color: #fff;
+  }

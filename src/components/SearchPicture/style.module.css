@@ -1,0 +1,25 @@
+/*
+.input {
+  border-radius: 3px;
+  height: 30px;
+  font-size: 13px;
+  width: 100%;
+  border-color: transparent;  
+  margin:10px 10px 1px 1px;  
+}
+
+input::placeholder {
+  color: rgb(194, 194, 194);
+}
+
+input:focus {
+  outline-width: 0;
+  border: solid 1px white;
+}
+*/
+.icon{
+  color:#fff;
+}
+.date{
+  color:#fff;
+}
